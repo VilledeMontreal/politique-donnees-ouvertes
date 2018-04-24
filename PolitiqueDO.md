@@ -1,5 +1,5 @@
 [![Couverture politique de données
-ouvertes](./PolitiqueDO_files/couverture_politique.jpg)](http://donnees.ville.montreal.qc.ca/portail/wp-content/uploads/2015/10/Politique-de-donn%C3%A9es-ouvertes.pdf)
+ouvertes](http://donnees.ville.montreal.qc.ca/portail/wp-content/uploads/2015/10/couverture_politique.jpg)](http://donnees.ville.montreal.qc.ca/portail/wp-content/uploads/2015/10/Politique-de-donn%C3%A9es-ouvertes.pdf)
 
 *La Politique de données ouvertes est également disponible en [version
 PDF](http://donnees.ville.montreal.qc.ca/portail/wp-content/uploads/2015/10/Politique-de-donn%C3%A9es-ouvertes.pdf). An
